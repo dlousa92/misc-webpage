@@ -16,8 +16,6 @@
   font-size: 2.0em;
   text-align: center;
   color: wheat;
-  background-color: rgb(48, 47, 47);
-  
 }
 
 .box1 {
@@ -26,6 +24,7 @@
   left: 0;
   height: 400px;
   width: 400px;
+  background-color: paleturquoise;
 }
 
 .box2 {
@@ -34,6 +33,7 @@
   right: 0;
   height: 400px;
   width: 400px;
+  background-color: palegoldenrod
 }
 
 .box3 {
@@ -42,6 +42,7 @@
   left: 0;
   height: 400px;
   width: 400px;
+  background-color: palegreen
 }
 
 .box4 {
@@ -50,4 +51,5 @@
   right: 0;
   height: 400px;
   width: 400px;
+  background-color: palevioletred;
 }
