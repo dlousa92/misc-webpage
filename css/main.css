@@ -8,6 +8,7 @@
   border: 1px dotted black;
   position: relative;
   margin: auto;
+  margin-top: 2%;
 }
 
 .child {
