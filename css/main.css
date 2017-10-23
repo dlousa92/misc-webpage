@@ -29,3 +29,11 @@
   height: 400px;
   width: 400px;
 }
+
+.box3 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 400px;
+  width: 400px;
+}
