@@ -12,6 +12,12 @@
 
 .child {
   border: 1px solid red;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.0em;
+  text-align: center;
+  color: wheat;
+  background-color: rgb(48, 47, 47);
+  
 }
 
 .box1 {
