@@ -19,5 +19,9 @@
 }
 
 .box2 {
-
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 400px;
+  width: 400px;
 }
