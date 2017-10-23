@@ -3,6 +3,7 @@
   width: 800px;
   border: 1px dotted black;
   position: relative;
+  margin: auto;
 }
 
 .child {
@@ -15,4 +16,8 @@
   left: 0;
   height: 400px;
   width: 400px;
+}
+
+.box2 {
+
 }
