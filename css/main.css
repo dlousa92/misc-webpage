@@ -1,5 +1,8 @@
 .container {
-  display: flex;
+  height: 800px;
+  width: 800px;
+  border: 1px dotted black;
+  position: relative;
 }
 
 .child {
