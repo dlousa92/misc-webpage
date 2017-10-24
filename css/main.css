@@ -19,6 +19,12 @@
   color: rgb(63, 63, 63);
 }
 
+p {
+  position: relative;
+  height: 400px;
+  line-height: 325px;
+}
+
 .box1 {
   position: absolute;
   top: 0;
